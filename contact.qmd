@@ -1,0 +1,13 @@
+---
+title: "Contact & CV"
+---
+
+[Jon Gewirtzman · he/him · pronounced *guh-WERTS-man*]{.muted}
+
+Email: [jonathan.gewirtzman@yale.edu](mailto:jonathan.gewirtzman@yale.edu)
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=1uVeNjEAAAAJ) · [GitHub](https://github.com/jgewirtzman) · [ResearchGate](https://www.researchgate.net/profile/Jonathan-Gewirtzman) · [LinkedIn](https://www.linkedin.com/in/jon-gewirtzman-54613137/) · [Bluesky](https://bsky.app/profile/jgewirtzman.bsky.social)
+
+[Download CV (PDF)](files/Gewirtzman_CV.pdf)
+
+![](images/contact.jpg){.page-photo .contact-photo .nolightbox fig-alt="Watching a puffin from a cliff in Newfoundland, iceberg behind"}

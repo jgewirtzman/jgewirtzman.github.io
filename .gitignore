@@ -1,0 +1,13 @@
+# Rendered site (built by GitHub Actions)
+docs/
+/.quarto/
+# CV PDF is built from jgewirtzman/jgewirtzman-cv by the workflow
+files/
+# Local photo library and scratch
+_photos/
+_stale/
+_incoming/
+_keep/
+*.tgz
+.DS_Store
+HANDOFF.md

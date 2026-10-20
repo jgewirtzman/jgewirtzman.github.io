@@ -1,0 +1,78 @@
+/* Layout */
+.navbar { border-bottom: 1px solid #9CAF88; }
+.navbar-brand { font-weight: 600; letter-spacing: 0.01em; }
+.nav-footer { border-top: 1px solid #9CAF88; min-height: 0; padding: 0 0 1.5rem 0; margin-top: 3rem; }
+.nav-footer .nav-footer-center, .nav-footer .nav-footer-left, .nav-footer .nav-footer-right { display: none; }
+
+h1.title { font-size: 1.9rem; margin-bottom: 1.2rem; }
+h2 { font-size: 1.35rem; margin-top: 2.4rem; padding-top: 0.4rem; border-top: 1px solid #9CAF88; }
+h3 { font-size: 1.1rem; margin-top: 1.6rem; }
+p { margin-bottom: 1rem; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+strong a, a strong { font-weight: 600; }
+
+/* Research section photos: float right on wide screens, full width on narrow */
+.research-photo {
+  float: right;
+  width: 42%;
+  max-width: 340px;
+  margin: 0.35rem 0 1rem 1.5rem;
+  border-radius: 3px;
+}
+@media (max-width: 700px) {
+  .research-photo { float: none; width: 100%; max-width: none; margin: 0.5rem 0 1rem 0; }
+}
+
+/* Home */
+.home-photo { width: 100%; max-width: 300px; border-radius: 3px; }
+.home-grid { display: grid; grid-template-columns: 300px 1fr; gap: 2rem; align-items: start; }
+@media (max-width: 700px) { .home-grid { grid-template-columns: 1fr; } .home-photo { max-width: 260px; } }
+.links-row { color: #5e5e5e; margin-top: 1rem; }
+.links-row a { margin-right: 0.3rem; }
+
+/* Research jump links */
+.jump { color: #5e5e5e; font-size: 0.95rem; margin-bottom: 1.5rem; }
+.jump a { margin-right: 0.2rem; }
+
+/* Teaching photo */
+.page-photo { width: 100%; border-radius: 3px; margin: 0 0 1.5rem 0; }
+#contact .page-photo, .contact-photo { margin: 2rem 0 0 0; }
+
+figcaption, .quarto-figure figcaption { display: none; }
+
+/* Photo gallery: thumbnails in a row, click to enlarge (lightbox) */
+.gallery { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem; clear: both; margin: 1rem 0 1.5rem; }
+.gallery p { margin: 0; }
+.gallery img { width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 3px; display: block; }
+@media (max-width: 700px) { .gallery { grid-template-columns: repeat(2, 1fr); } }
+
+/* Collapsible research sections */
+details.section { border-top: 1px solid #9CAF88; padding: 0.9rem 0 0.6rem; margin: 0; scroll-margin-top: 80px; }
+details.section:last-of-type { border-bottom: 1px solid #9CAF88; }
+details.section summary { cursor: pointer; list-style: none; display: grid; grid-template-columns: 52px 1fr; column-gap: 1.1rem; align-items: center; position: relative; padding-right: 2rem; }
+details.section summary::-webkit-details-marker { display: none; }
+details.section summary::after { content: "+"; position: absolute; right: 0.4rem; top: 50%; margin-top: -1rem; color: #275D38; font-size: 1.5rem; line-height: 1.3; font-weight: 300; transition: transform 0.15s; }
+details.section[open] summary::after { transform: rotate(45deg); }
+details.section summary .icon { width: 48px; height: 48px; grid-row: 1 / span 2; }
+details.section summary .sec-title { display: block; align-self: end; font-size: 1.35rem; font-weight: 600; color: #284734; margin: 0; padding: 0; border: 0; }
+details.section summary .tagline { display: block; align-self: start; color: #5e5e5e; font-size: 0.95rem; margin-top: 0.15rem; }
+details.section summary:hover .sec-title { color: #275D38; }
+details.section[open] summary { margin-bottom: 1rem; }
+details.section::after { content: ""; display: block; clear: both; }
+
+.expand-all { background: none; border: 0; padding: 0; font: inherit; color: #275D38; cursor: pointer; }
+.expand-all:hover { text-decoration: underline; }
+@media (max-width: 700px) { details.section summary { grid-template-columns: 44px 1fr; align-items: start; } details.section summary .icon { width: 38px; height: 38px; margin-top: 0.3rem; } details.section summary .sec-title { align-self: auto; } }
+
+figure.audio { margin: 0.25rem 0 1.5rem 0; }
+figure.audio audio { width: 100%; max-width: 520px; display: block; }
+figure.audio figcaption { display: block; font-size: 0.9rem; color: #555; margin-top: 0.35rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  details.section summary::after { transition: none; }
+  .glightbox-container *, .gslide-media { transition: none !important; animation: none !important; }
+}
+
+summary .anchorjs-link { display: none !important; }
+.muted { color: #5e5e5e; }

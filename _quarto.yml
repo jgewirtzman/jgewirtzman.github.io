@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jon Gewirtzman"
+  site-url: https://www.jongewirtzman.com
+  description: "Ecosystem ecologist and biogeochemist"
+  search: false
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching & Outreach
+        href: teaching.qmd
+      - text: Contact & CV
+        href: contact.qmd
+  page-footer:
+    center: "&nbsp;"
+
+format:
+  html:
+    lightbox: true
+    theme: [cosmo, styles.scss]
+    css: styles.css
+    toc: false
+    page-layout: article
+    grid:
+      body-width: 760px
+    link-external-newwindow: true
+    include-in-header:
+      text: '<link rel="icon" href="images/favicon.svg" type="image/svg+xml">'

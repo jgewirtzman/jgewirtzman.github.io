@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+$forest: #275D38;
+$dark-forest: #284734;
+$light-forest: #9CAF88;
+$muted: #6b6b6b;
+
+$font-family-sans-serif: "Source Sans 3", "Source Sans Pro", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+$font-size-base: 1.05rem;
+$line-height-base: 1.6;
+$body-color: #222;
+$link-color: $forest;
+$link-hover-color: $dark-forest;
+$headings-color: $dark-forest;
+$headings-font-weight: 600;
+$navbar-bg: #ffffff;
+$navbar-fg: $dark-forest;
+$navbar-hl: $forest;
+$footer-bg: #ffffff;
+$footer-fg: $muted;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap');
