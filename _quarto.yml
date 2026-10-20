@@ -9,6 +9,7 @@ website:
   site-url: https://www.jongewirtzman.com
   description: "Ecosystem ecologist and biogeochemist"
   search: false
+  google-analytics: "G-H23Y4E4XF5"
   navbar:
     left:
       - text: Home
