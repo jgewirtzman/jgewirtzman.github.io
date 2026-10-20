@@ -22,6 +22,12 @@ Students and collaborators interested in this work are welcome to get in touch.
 ![](images/gallery/teaching_03.jpg){group="teaching" fig-alt="Lecturing on tree microbiomes in a lecture hall" loading="lazy"}
 
 ![](images/gallery/teaching_04.jpg){group="teaching" fig-alt="Jon and a student in climbing harnesses on a canopy platform" loading="lazy"}
+
+![](images/gallery/teaching_05.jpg){group="teaching" fig-alt="Field team on a tower platform above the forest canopy" loading="lazy"}
+
+![](images/gallery/teaching_06.jpg){group="teaching" fig-alt="Field team in life jackets on a boat" loading="lazy"}
+
+![](images/gallery/teaching_07.jpg){group="teaching" fig-alt="Field team posing on the Everglades National Park sign" loading="lazy"}
 :::
 
 ## Science communication

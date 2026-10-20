@@ -4,6 +4,8 @@ title: "Research"
 
 I study how natural and managed ecosystems cycle carbon and greenhouse gases, and how the plants and microbes that drive those cycles respond to environmental change.
 
+![](images/research.jpg){.page-photo fig-alt="Measuring methane flux from a mangrove stem with a portable analyzer in the Everglades"}
+
 ::: {.jump}
 <button type="button" class="expand-all" id="expand-all">Expand all</button>
 :::
@@ -36,7 +38,7 @@ Current work asks how these communities assemble and how they vary among host sp
 <details class="section" id="greenhouse-gas-biogeochemistry">
 <summary><img class="icon" src="images/icon_biogeochemistry.svg" alt=""><h2 class="sec-title">Greenhouse Gas Biogeochemistry</h2><span class="tagline">Methane and CO~2~ exchange from tree stems to whole ecosystems, in forests, wetlands, and farms.</span></summary>
 
-![](images/biogeochemistry.jpg){.research-photo group="biogeochemistry" fig-alt="Measuring gas fluxes from a mangrove stem in the Everglades"}
+![](images/gallery/biogeochemistry_01.jpg){.research-photo group="biogeochemistry" fig-alt="Canoeing through a flooded forest at Mamirauá, Brazil"}
 
 Tree stems are a recently recognized and poorly constrained source and sink of methane. Trees can emit methane produced inside their wood or transported from soils, and can take it up through bark-dwelling microbes. In upland forests of New England, stem emissions partly offset soil uptake, species differ widely, and the balance of methane producers and consumers inside a tree helps explain its [**net exchange with the atmosphere**](https://doi.org/10.1101/2025.09.30.679632). At [Howland Forest](https://umaine.edu/howlandforest/) in Maine, stem emissions rise sharply above a [**soil moisture threshold**](https://doi.org/10.1007/s10533-025-01257-0). I am extending this work to tropical forests, where tree fluxes are largest and least measured, with campaigns at the [Mamirauá](https://mamiraua.org.br/) floodplain forest in Brazil combining stem and canopy measurements with microbial sampling.
 
@@ -45,8 +47,6 @@ I also study methane and CO~2~ budgets at the ecosystem scale. At [Harvard Fores
 In agricultural systems, I measure greenhouse gas fluxes from soils, manure, and compost under conventional and regenerative management, with [Hudson Carbon](https://www.hudsoncarbon.com/) and [Churchtown Dairy](https://www.churchtowndairy.org/).
 
 ::: {.gallery}
-![](images/gallery/biogeochemistry_01.jpg){group="biogeochemistry" fig-alt="Canoeing through a flooded forest at Mamirauá, Brazil" loading="lazy"}
-
 ![](images/gallery/biogeochemistry_02.jpg){group="biogeochemistry" fig-alt="Climber measuring gas exchange in a tree canopy" loading="lazy"}
 
 ![](images/gallery/biogeochemistry_03.jpg){group="biogeochemistry" fig-alt="Two researchers measuring methane flux from a tree stem" loading="lazy"}
