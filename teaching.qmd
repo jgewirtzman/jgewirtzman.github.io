@@ -2,7 +2,7 @@
 title: "Teaching & Outreach"
 ---
 
-![](images/teaching.jpg){.page-photo group="teaching" fig-alt="Students in the field"}
+![](images/teaching.jpg){.page-photo .nolightbox fig-alt="Students in the field"}
 
 ## Teaching
 
