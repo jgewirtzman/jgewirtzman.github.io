@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-I study how natural and managed ecosystems cycle carbon and greenhouse gases, and how the plants and microbes that drive those cycles respond to environmental change.
+I study how ecosystems cycle carbon, nutrients, and greenhouse gases, and how those cycles respond to rapid environmental change. Across the projects below, I ask which species and communities drive these cycles, how processes that pull in opposite directions balance out, and how what we learn can help manage land and address climate change.
 
 ![](images/research.jpg){.page-photo .nolightbox fig-alt="Measuring gas fluxes from a mangrove stem in the Everglades"}
 
@@ -73,7 +73,7 @@ Decay inside living trees is common but hard to see. Using sonic and electrical 
 
 Bark and branches are habitat for microbes, epiphytes, and animals, and the interface across which trees exchange gases with the atmosphere, yet their total area is rarely measured. I've written about [**woody surface area**](https://doi.org/10.1111/gcb.70699) as an ecosystem property in its own right.
 
-In Newfoundland, I collaborate on how moose browsing and canopy disturbance shape boreal forest regeneration and carbon storage. With Harvard Forest colleagues, I reviewed how [**extreme precipitation**](https://doi.org/10.1146/annurev-ecolsys-102723-042035) affects temperate forests during leaf-out, peak growth, and senescence. Earlier work examined [**Arctic sedge responses**](https://doi.org/10.1111/1365-2435.70367) to warming and drying, [**urbanization and nitrogen cycling**](https://doi.org/10.1111/gcb.16611) in New England forests, and [**silicon and carbon cycling**](https://doi.org/10.1029/2019GB006308) from soils to rivers.
+In Newfoundland, I collaborate on how moose browsing and canopy disturbance shape boreal forest regeneration and carbon storage. With Harvard Forest colleagues, I reviewed how [**extreme precipitation**](https://doi.org/10.1146/annurev-ecolsys-102723-042035) affects temperate forests during leaf-out, peak growth, and senescence. Earlier work followed change along gradients: [**Arctic sedges**](https://doi.org/10.1111/1365-2435.70367) under warming and drying, [**nitrogen cycling**](https://doi.org/10.1111/gcb.16611) from city to countryside, and [**silicon and carbon**](https://doi.org/10.1029/2019GB006308) moving from soils to rivers.
 
 ::: {.gallery}
 ![](images/gallery/forest_01.jpg){group="forest" fig-alt="Terrestrial laser scanning in a mangrove forest" loading="lazy"}

@@ -10,9 +10,9 @@ include-in-header:
 ![](images/jon.jpg){.home-photo .nolightbox fig-alt="Jon Gewirtzman"}
 :::
 ::: {}
-I'm an ecosystem ecologist and biogeochemist. I study how ecosystems cycle carbon, nutrients, and greenhouse gases, and how those cycles respond to environmental change. I'm especially interested in the plants and microbes that drive these processes, from the communities living inside trees to the soils, wetlands, and forests they're part of.
+I'm an ecosystem ecologist and biogeochemist. I study how carbon, nutrients, and greenhouse gases move through ecosystems, and what that means for Earth's climate, soils, and water. Ecosystems and climate shape each other: warming, drought, storms, pathogens, and land use alter how ecosystems function, which in turn affects whether they capture or release climate-warming gases. I study both directions of that relationship.
 
-I work mostly in forests and wetlands, using field measurements, experiments, molecular tools, and sensors I help build. I'm also interested in how this understanding can inform ecosystem management and climate solutions.
+Plants and microbes drive these cycles, so that's where I focus: which species and communities are present, how they interact, and how their activity adds up, from the microbes living inside a single tree to whole forests and wetlands. I use field measurements, experiments, molecular tools, and sensors I help build. I'm also interested in how this understanding can inform land and nutrient management, greenhouse gas accounting, natural carbon capture, and climate engineering.
 
 I'm a [Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/) in the [Department of Earth System Science](https://earthsystemscience.stanford.edu/), working with the [Jackson Lab](https://jacksonlab.stanford.edu/). I completed my PhD at the [Yale School of the Environment](https://environment.yale.edu/) in 2026, and have been a research fellow at [Harvard Forest](https://harvardforest.fas.harvard.edu/), an LTER Synthesis Fellow with [NCEAS](https://nceas.ucsb.edu/), and adjunct faculty in the [Connecticut College Department of Botany](https://www.conncoll.edu/academics/majors-departments-programs/departments/botany/).
 
