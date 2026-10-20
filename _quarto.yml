@@ -5,8 +5,9 @@ project:
     - CNAME
 
 website:
+  favicon: images/favicon.svg
   title: "Jon Gewirtzman"
-  site-url: https://www.jongewirtzman.com
+  site-url: https://jongewirtzman.com
   description: "Ecosystem ecologist and biogeochemist"
   search: false
   google-analytics: "G-H23Y4E4XF5"
@@ -33,5 +34,3 @@ format:
     grid:
       body-width: 760px
     link-external-newwindow: true
-    include-in-header:
-      text: '<link rel="icon" href="images/favicon.svg" type="image/svg+xml">'
