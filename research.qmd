@@ -4,7 +4,7 @@ title: "Research"
 
 I study how natural and managed ecosystems cycle carbon and greenhouse gases, and how the plants and microbes that drive those cycles respond to environmental change.
 
-![](images/research.jpg){.page-photo fig-alt="Measuring methane flux from a mangrove stem with a portable analyzer in the Everglades"}
+![](images/research.jpg){.page-photo fig-alt="Measuring gas fluxes from a mangrove stem in the Everglades"}
 
 ::: {.jump}
 <button type="button" class="expand-all" id="expand-all">Expand all</button>
