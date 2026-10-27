@@ -14,7 +14,7 @@ I study how ecosystems cycle carbon, nutrients, and greenhouse gases, and how th
 <div class="rsec" id="microbiomes-of-living-trees">
 <div class="sec-head"><img class="icon" src="images/icon_microbiomes.svg" alt=""><h2 class="sec-title">Microbiomes of Living Trees</h2></div>
 
-![](images/microbiomes.jpg){.research-photo group="microbiomes" fig-alt="Cross-section of a tree showing growth rings"}
+![](images/microbiomes.jpg){.research-photo group="microbiomes" fig-alt="Cross-section of an oak tree showing growth rings" description="Cross-section of an oak tree showing growth rings"}
 
 A single tree holds roughly a trillion microbial cells in its wood, a community that was almost unstudied until recently. I study which microbes live inside trees, how those communities form, and what they do, including their roles in cycling carbon and nitrogen.
 
@@ -28,15 +28,15 @@ Heartwood and sapwood host distinct communities, different from those in soils, 
 Current work asks how these communities assemble and how they vary among host species, tissues, and environments. I am sampling trees in tropical forests in [Panama](https://stri.si.edu/) and Brazil and at the [SPRUCE](https://mnspruce.ornl.gov/) warming experiment in Minnesota to compare with temperate forests. I am also interested in what these microbes do: nitrogen fixation, decay, and the production and consumption of greenhouse gases.
 
 ::: {.gallery}
-![](images/gallery/microbiomes_01.jpg){group="microbiomes" fig-alt="Sampling bark microbes from a tree trunk with a gloved hand" loading="lazy"}
+![](images/gallery/microbiomes_01.jpg){group="microbiomes" fig-alt="Sampling bark microbes from a tree trunk at Barro Colorado Island, Smithsonian Tropical Research Institute, Panama" loading="lazy" description="Sampling bark microbes from a tree trunk at Barro Colorado Island, Smithsonian Tropical Research Institute, Panama"}
 
-![](images/gallery/microbiomes_02.jpg){group="microbiomes" fig-alt="Field DNA-extraction setup beside a freshly cut log" loading="lazy"}
+![](images/gallery/microbiomes_02.jpg){group="microbiomes" fig-alt="Field DNA-extraction setup beside a freshly cut log at Yale-Myers Forest, CT" loading="lazy" description="Field DNA-extraction setup beside a freshly cut log at Yale-Myers Forest, CT"}
 
-![](images/gallery/microbiomes_03.jpg){group="microbiomes" fig-alt="Preparing wood samples for DNA extraction in the lab" loading="lazy"}
+![](images/gallery/microbiomes_03.jpg){group="microbiomes" fig-alt="Preparing wood samples for DNA extraction in the lab" loading="lazy" description="Preparing wood samples for DNA extraction in the lab"}
 
-![](images/gallery/microbiomes_04.jpg){group="microbiomes" fig-alt="Wood cores incubating in sealed glass jars" loading="lazy"}
+![](images/gallery/microbiomes_04.jpg){group="microbiomes" fig-alt="Wood cores incubating in sealed glass jars for biogeochemical assays" loading="lazy" description="Wood cores incubating in sealed glass jars for biogeochemical assays"}
 
-![](images/gallery/microbiomes_05.jpg){group="microbiomes" fig-alt="Flagged black spruce at the SPRUCE experiment in Minnesota" loading="lazy"}
+![](images/gallery/microbiomes_05.jpg){group="microbiomes" fig-alt="Coring a tree at the SPRUCE experiment in Minnesota" loading="lazy" description="Coring a tree at the SPRUCE experiment in Minnesota"}
 :::
 
 </details>
@@ -45,7 +45,7 @@ Current work asks how these communities assemble and how they vary among host sp
 <div class="rsec" id="greenhouse-gas-biogeochemistry">
 <div class="sec-head"><img class="icon" src="images/icon_biogeochemistry.svg" alt=""><h2 class="sec-title">Greenhouse Gas Biogeochemistry</h2></div>
 
-![](images/gallery/biogeochemistry_02.jpg){.research-photo group="biogeochemistry" fig-alt="Climber measuring gas exchange in a tree canopy"}
+![](images/gallery/biogeochemistry_02.jpg){.research-photo group="biogeochemistry" fig-alt="Climbing to measure tree gas exchange in New England" description="Climbing to measure tree gas exchange in New England"}
 
 Land ecosystems both release and take up carbon dioxide, methane, and nitrous oxide, and these exchanges are among the largest uncertainties in projections of future climate. I measure them from the forest floor to the canopy, in ecosystems from tundra to temperate, boreal, and tropical forests, inland and coastal wetlands, and farms. I focus especially on trees, whose role in methane cycling was overlooked until recently.
 
@@ -59,19 +59,19 @@ I also study methane and CO~2~ budgets at the ecosystem scale. At [Harvard Fores
 In agricultural systems, I measure greenhouse gas fluxes from soils, manure, and compost under conventional and regenerative management, with [Hudson Carbon](https://www.hudsoncarbon.com/) and [Churchtown Dairy](https://www.churchtowndairy.org/).
 
 ::: {.gallery}
-![](images/gallery/biogeochemistry_01.jpg){group="biogeochemistry" fig-alt="Canoeing through a flooded forest at Mamirauá, Brazil" loading="lazy"}
+![](images/gallery/biogeochemistry_01.jpg){group="biogeochemistry" fig-alt="Canoeing through a flooded forest at Mamirauá, Brazil" loading="lazy" description="Canoeing through a flooded forest at Mamirauá, Brazil"}
 
-![](images/gallery/biogeochemistry_03.jpg){group="biogeochemistry" fig-alt="Two researchers measuring methane flux from a tree stem" loading="lazy"}
+![](images/gallery/biogeochemistry_03.jpg){group="biogeochemistry" fig-alt="Measuring methane flux from a tree stem at Yale-Myers Forest, CT" loading="lazy" description="Measuring methane flux from a tree stem at Yale-Myers Forest, CT"}
 
-![](images/gallery/biogeochemistry_04.jpg){group="biogeochemistry" fig-alt="Flux chamber on the tundra at Toolik Field Station, Alaska" loading="lazy"}
+![](images/gallery/biogeochemistry_04.jpg){group="biogeochemistry" fig-alt="Measuring fluxes and solar-induced fluorescence (SIF) on the tundra at Toolik Field Station, Alaska" loading="lazy" description="Measuring fluxes and solar-induced fluorescence (SIF) on the tundra at Toolik Field Station, Alaska"}
 
-![](images/gallery/biogeochemistry_05.jpg){group="biogeochemistry" fig-alt="Array of chambers on tundra at Toolik Field Station" loading="lazy"}
+![](images/gallery/biogeochemistry_05.jpg){group="biogeochemistry" fig-alt="Tundra warming experiment at Toolik Field Station, Alaska" loading="lazy" description="Tundra warming experiment at Toolik Field Station, Alaska"}
 
-![](images/gallery/biogeochemistry_06.jpg){group="biogeochemistry" fig-alt="Boat among standing dead mangroves in the Everglades" loading="lazy"}
+![](images/gallery/biogeochemistry_06.jpg){group="biogeochemistry" fig-alt="Exploring ghost forests after hurricane die-off in the Everglades, FL" loading="lazy" description="Exploring ghost forests after hurricane die-off in the Everglades, FL"}
 
-![](images/gallery/biogeochemistry_07.jpg){group="biogeochemistry" fig-alt="Ladder against a tree in a flooded forest at Mamirauá" loading="lazy"}
+![](images/gallery/biogeochemistry_07.jpg){group="biogeochemistry" fig-alt="Measuring trees in the Mamirauá flooded forest, Brazil" loading="lazy" description="Measuring trees in the Mamirauá flooded forest, Brazil"}
 
-![](images/gallery/teaching_06.jpg){group="biogeochemistry" fig-alt="Field team in life jackets on a boat" loading="lazy"}
+![](images/gallery/teaching_06.jpg){group="biogeochemistry" fig-alt="Field team headed to our Everglades sites" loading="lazy" description="Field team headed to our Everglades sites"}
 :::
 
 </details>
@@ -80,7 +80,7 @@ In agricultural systems, I measure greenhouse gas fluxes from soils, manure, and
 <div class="rsec" id="forest-ecosystem-ecology">
 <div class="sec-head"><img class="icon" src="images/icon_forest.svg" alt=""><h2 class="sec-title">Forest & Ecosystem Ecology</h2></div>
 
-![](images/forest.jpg){.research-photo group="forest" style="object-position: 50% 38%" fig-alt="Field team walking through a boreal valley in Newfoundland"}
+![](images/forest.jpg){.research-photo group="forest" style="object-position: 50% 38%" fig-alt="Field team walking through a regenerating forest gap in Gros Morne National Park, Newfoundland" description="Field team walking through a regenerating forest gap in Gros Morne National Park, Newfoundland"}
 
 Much of my forest work concerns the health of individual trees and how forests respond to disturbance: decay hidden inside living trees, novel pests and pathogens, extreme weather, and a changing climate.
 
@@ -94,19 +94,19 @@ Bark and branches are habitat for microbes, epiphytes, and animals, and the inte
 In Newfoundland, I collaborate on how moose browsing and canopy disturbance shape boreal forest regeneration and carbon storage. With Harvard Forest colleagues, I reviewed how [**extreme precipitation**](https://doi.org/10.1146/annurev-ecolsys-102723-042035) affects temperate forests during leaf-out, peak growth, and senescence. Earlier work followed change along gradients: [**Arctic sedges**](https://doi.org/10.1111/1365-2435.70367) under warming and drying, [**nitrogen cycling**](https://doi.org/10.1111/gcb.16611) from city to countryside, and [**silicon and carbon**](https://doi.org/10.1029/2019GB006308) moving from soils to rivers.
 
 ::: {.gallery}
-![](images/gallery/forest_01.jpg){group="forest" fig-alt="Terrestrial laser scanning in a mangrove forest" loading="lazy"}
+![](images/gallery/forest_01.jpg){group="forest" fig-alt="Terrestrial laser scanning in a mangrove forest in the Everglades, FL" loading="lazy" description="Terrestrial laser scanning in a mangrove forest in the Everglades, FL"}
 
-![](images/gallery/forest_02.jpg){group="forest" fig-alt="Laser-scan point cloud of a forest plot with each tree in a different color" loading="lazy"}
+![](images/gallery/forest_02.jpg){group="forest" fig-alt="Laser-scan point cloud of a forest plot with each tree in a different color" loading="lazy" description="Laser-scan point cloud of a forest plot with each tree in a different color"}
 
-![](images/gallery/forest_03.jpg){group="forest" fig-alt="Looking up into the canopy of a temperate forest" loading="lazy"}
+![](images/gallery/forest_03.jpg){group="forest" fig-alt="Bucket lift to the canopy at Harvard Forest, MA" loading="lazy" description="Bucket lift to the canopy at Harvard Forest, MA"}
 
-![](images/gallery/forest_04.jpg){group="forest" fig-alt="Tropical forest canopy seen from below" loading="lazy"}
+![](images/gallery/forest_04.jpg){group="forest" fig-alt="Cloud forest canopy at Santa Fe, Panama" loading="lazy" description="Cloud forest canopy at Santa Fe, Panama"}
 
-![](images/gallery/forest_05.jpg){group="forest" fig-alt="Sampling in a mangrove stand" loading="lazy"}
+![](images/gallery/forest_05.jpg){group="forest" fig-alt="Sampling in a mangrove stand along the Shark River in the Everglades, FL" loading="lazy" description="Sampling in a mangrove stand along the Shark River in the Everglades, FL"}
 
-![](images/gallery/forest_06.jpg){group="forest" fig-alt="Tree crowns against the sky" loading="lazy"}
+![](images/gallery/forest_06.jpg){group="forest" fig-alt="Crown die-off from beech leaf disease in New England" loading="lazy" description="Crown die-off from beech leaf disease in New England"}
 
-![](images/gallery/forest_07.jpg){group="forest" fig-alt="Jon on a moose exclosure fence in Newfoundland" loading="lazy"}
+![](images/gallery/forest_07.jpg){group="forest" fig-alt="Jon on a moose exclosure fence in Newfoundland" loading="lazy" description="Jon on a moose exclosure fence in Newfoundland"}
 
 :::
 
@@ -116,7 +116,7 @@ In Newfoundland, I collaborate on how moose browsing and canopy disturbance shap
 <div class="rsec" id="measurement-scaling">
 <div class="sec-head"><img class="icon" src="images/icon_measurement.svg" alt=""><h2 class="sec-title">Measurement & Scaling</h2></div>
 
-![](images/gallery/measurement_02.jpg){.research-photo group="measurement" style="object-position: 50% 80%" fig-alt="Fluxbot autonomous soil flux chamber on a mossy forest floor"}
+![](images/gallery/measurement_02.jpg){.research-photo group="measurement" style="object-position: 50% 80%" fig-alt="Fluxbot autonomous soil flux chamber on a mossy forest floor" description="Fluxbot autonomous soil flux chamber on a mossy forest floor"}
 
 Most greenhouse gas measurements rely on expensive instruments at a few fixed sites. I build cheaper, automated sensors so fluxes can be measured in more places and more often, and work on scaling those measurements from single stems to whole forests.
 
@@ -128,17 +128,17 @@ With collaborators at UC Santa Barbara and Yale, I helped develop [**Fluxbots**]
 Scaling stem fluxes to a forest requires knowing how much surface there is and how fluxes change with height. I measure fluxes at height with professional climbers, use terrestrial laser scanning to quantify woody surface area, and compare chamber-based estimates with tower measurements through the [**Flux Gradient Project**](https://lternet.edu/working-groups/the-flux-gradient-project/) at [NEON](https://www.neonscience.org/) sites and a [**global synthesis**](https://www.creaf.cat/en/research/synthesis-actions/methane-fluxes-tree-stems) of tree stem methane data.
 
 ::: {.gallery}
-![](images/gallery/measurement_01.jpg){group="measurement" fig-alt="Automated chambers and analyzer mounted on a tree stem" loading="lazy"}
+![](images/gallery/measurement_01.jpg){group="measurement" fig-alt="Stem chambers, dendrometers, and sonic and electrical resistivity tomography on a tree" loading="lazy" description="Stem chambers, dendrometers, and sonic and electrical resistivity tomography on a tree"}
 
-![](images/measurement.jpg){group="measurement" fig-alt="Soil flux chamber and analyzer on a cart in a meadow" loading="lazy"}
+![](images/measurement.jpg){group="measurement" fig-alt="Soil flux chamber and analyzer in a regenerative pasture at Churchtown Dairy, NY" loading="lazy" description="Soil flux chamber and analyzer in a regenerative pasture at Churchtown Dairy, NY"}
 
-![](images/gallery/measurement_03.jpg){group="measurement" fig-alt="Flux tower rising above an autumn forest canopy" loading="lazy"}
+![](images/gallery/measurement_03.jpg){group="measurement" fig-alt="Flux tower above the autumn canopy at Harvard Forest, MA" loading="lazy" description="Flux tower above the autumn canopy at Harvard Forest, MA"}
 
-![](images/gallery/measurement_04.jpg){group="measurement" fig-alt="Installing instruments on a flux tower" loading="lazy"}
+![](images/gallery/measurement_04.jpg){group="measurement" fig-alt="Installing instruments on a flux tower in a beaver swamp at Harvard Forest, MA" loading="lazy" description="Installing instruments on a flux tower in a beaver swamp at Harvard Forest, MA"}
 
-![](images/gallery/measurement_05.jpg){group="measurement" fig-alt="Electronics inside a Fluxbot controller enclosure" loading="lazy"}
+![](images/gallery/measurement_05.jpg){group="measurement" fig-alt="Controller and gas analyzer for a soil autochamber array at Harvard Forest, MA" loading="lazy" description="Controller and gas analyzer for a soil autochamber array at Harvard Forest, MA"}
 
-![](images/gallery/teaching_05.jpg){group="measurement" fig-alt="Field team on a tower platform above the forest canopy" loading="lazy"}
+![](images/gallery/teaching_05.jpg){group="measurement" fig-alt="Field team on a tower platform above the canopy at Harvard Forest, MA" loading="lazy" description="Field team on a tower platform above the canopy at Harvard Forest, MA"}
 
 :::
 
@@ -148,7 +148,7 @@ Scaling stem fluxes to a forest requires knowing how much surface there is and h
 <div class="rsec" id="ecosystems-climate-solutions">
 <div class="sec-head"><img class="icon" src="images/icon_climate.svg" alt=""><h2 class="sec-title">Ecosystems & Climate Solutions</h2></div>
 
-![](images/climate.jpg){.research-photo group="climate" fig-alt="Standing dead mangroves in a hypersaline ghost forest"}
+![](images/climate.jpg){.research-photo group="climate" fig-alt="Standing dead mangroves in a hypersaline ghost forest" description="Standing dead mangroves in a hypersaline ghost forest"}
 
 Forests, wetlands, and farms are increasingly managed and credited for climate benefits, but the accounting is usually done in carbon alone. I measure their full greenhouse gas balance, and study whether ecosystems could be managed to remove more methane.
 
@@ -162,11 +162,11 @@ Ecosystems also remove methane from the atmosphere, through upland soils and met
 Before graduate school, I worked on international climate finance and [**loss and damage**](https://doi.org/10.1080/14693062.2018.1450724) under the UNFCCC.
 
 ::: {.gallery}
-![](images/gallery/climate_01.jpg){group="climate" fig-alt="UN Climate Change headquarters in Bonn, Germany" loading="lazy"}
+![](images/gallery/climate_01.jpg){group="climate" fig-alt="UN Climate Change headquarters in Bonn, Germany" loading="lazy" description="UN Climate Change headquarters in Bonn, Germany"}
 
-![](images/gallery/climate_02.jpg){group="climate" fig-alt="Rainbow over the tundra at Toolik Field Station, Alaska" loading="lazy"}
+![](images/gallery/climate_02.jpg){group="climate" fig-alt="Rainbow over the tundra at Toolik Field Station, Alaska" loading="lazy" description="Rainbow over the tundra at Toolik Field Station, Alaska"}
 
-![](images/gallery/climate_03.jpg){group="climate" fig-alt="Interior of a spruce-fir forest" loading="lazy"}
+![](images/gallery/climate_03.jpg){group="climate" fig-alt="Ancient peat swamp at Harvard Forest, MA" loading="lazy" description="Ancient peat swamp at Harvard Forest, MA"}
 :::
 
 </details>
