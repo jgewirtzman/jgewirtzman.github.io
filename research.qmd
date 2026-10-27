@@ -6,18 +6,24 @@ I study how ecosystems cycle carbon, nutrients, and greenhouse gases, and how th
 
 ![](images/research.jpg){.page-photo .nolightbox fig-alt="Measuring gas fluxes from a mangrove stem in the Everglades"}
 
-::: {.jump}
-<button type="button" class="expand-all" id="expand-all">Expand all</button>
-:::
+<nav class="jump" aria-label="Research sections">
+<div class="jump-links"><a href="#microbiomes-of-living-trees">Microbiomes</a><a href="#greenhouse-gas-biogeochemistry">Greenhouse gases</a><a href="#forest-ecosystem-ecology">Forests</a><a href="#measurement-scaling">Measurement</a><a href="#ecosystems-climate-solutions">Climate solutions</a></div>
+<button type="button" class="expand-all" aria-expanded="false">Expand all</button>
+</nav>
 
-<details class="section" id="microbiomes-of-living-trees">
-<summary><img class="icon" src="images/icon_microbiomes.svg" alt=""><h2 class="sec-title">Microbiomes of Living Trees</h2><span class="tagline">What lives inside trees, how those communities assemble, and what they do.</span></summary>
+<div class="rsec" id="microbiomes-of-living-trees">
+<div class="sec-head"><img class="icon" src="images/icon_microbiomes.svg" alt=""><h2 class="sec-title">Microbiomes of Living Trees</h2></div>
 
 ![](images/microbiomes.jpg){.research-photo group="microbiomes" fig-alt="Cross-section of a tree showing growth rings"}
 
+A single tree holds roughly a trillion microbial cells in its wood, a community that was almost unstudied until recently. I study which microbes live inside trees, how those communities form, and what they do, including their roles in cycling carbon and nitrogen.
+
+<details class="more">
+<summary><span class="m">Projects</span><span class="l">Hide projects</span></summary>
+
 Root and leaf microbiomes have been studied extensively, but until recently very little was known about the microbes living inside trees. I helped develop [**methods**](https://doi.org/10.1111/2041-210X.14311) for extracting, sequencing, and quantifying microbial DNA from wood, and used them to characterize bacterial, archaeal, and fungal communities across tissues and species of temperate trees.
 
-A single tree holds roughly a trillion microbial cells in its aboveground wood. Heartwood and sapwood host distinct communities, different from those in soils, leaves, and roots, and consistent within tree species. Anoxic heartwood is enriched in anaerobes, including methane-producing archaea and nitrogen fixers; sapwood and bark host aerobes, including methane oxidizers. We published this work in [**Nature**](https://doi.org/10.1038/s41586-025-09316-0) in 2025; it was covered in [Science](https://www.science.org/content/article/more-1-trillion-microbes-live-inside-average-tree-trunk) and the [New York Times](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html).
+Heartwood and sapwood host distinct communities, different from those in soils, leaves, and roots, and consistent within tree species. Anoxic heartwood is enriched in anaerobes, including methane-producing archaea and nitrogen fixers; sapwood and bark host aerobes, including methane oxidizers. We published this work in [**Nature**](https://doi.org/10.1038/s41586-025-09316-0) in 2025; it was covered in [Science](https://www.science.org/content/article/more-1-trillion-microbes-live-inside-average-tree-trunk) and the [New York Times](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html).
 
 Current work asks how these communities assemble and how they vary among host species, tissues, and environments. I am sampling trees in tropical forests in [Panama](https://stri.si.edu/) and Brazil and at the [SPRUCE](https://mnspruce.ornl.gov/) warming experiment in Minnesota to compare with temperate forests. I am also interested in what these microbes do: nitrogen fixation, decay, and the production and consumption of greenhouse gases.
 
@@ -34,11 +40,17 @@ Current work asks how these communities assemble and how they vary among host sp
 :::
 
 </details>
+</div>
 
-<details class="section" id="greenhouse-gas-biogeochemistry">
-<summary><img class="icon" src="images/icon_biogeochemistry.svg" alt=""><h2 class="sec-title">Greenhouse Gas Biogeochemistry</h2><span class="tagline">Methane and CO~2~ exchange from tree stems to whole ecosystems, in forests, wetlands, and farms.</span></summary>
+<div class="rsec" id="greenhouse-gas-biogeochemistry">
+<div class="sec-head"><img class="icon" src="images/icon_biogeochemistry.svg" alt=""><h2 class="sec-title">Greenhouse Gas Biogeochemistry</h2></div>
 
-![](images/gallery/biogeochemistry_01.jpg){.research-photo group="biogeochemistry" fig-alt="Canoeing through a flooded forest at Mamirauá, Brazil"}
+![](images/gallery/biogeochemistry_02.jpg){.research-photo group="biogeochemistry" fig-alt="Climber measuring gas exchange in a tree canopy"}
+
+Land ecosystems both release and take up carbon dioxide, methane, and nitrous oxide, and these exchanges are among the largest uncertainties in projections of future climate. I measure them from the forest floor to the canopy, in ecosystems from tundra to temperate, boreal, and tropical forests, inland and coastal wetlands, and farms. I focus especially on trees, whose role in methane cycling was overlooked until recently.
+
+<details class="more">
+<summary><span class="m">Projects</span><span class="l">Hide projects</span></summary>
 
 Tree stems are a recently recognized and poorly constrained source and sink of methane. Trees can emit methane produced inside their wood or transported from soils, and can take it up through bark-dwelling microbes. In upland forests of New England, stem emissions partly offset soil uptake, species differ widely, and the balance of methane producers and consumers inside a tree helps explain its [**net exchange with the atmosphere**](https://doi.org/10.1101/2025.09.30.679632). At [Howland Forest](https://umaine.edu/howlandforest/) in Maine, stem emissions rise sharply above a [**soil moisture threshold**](https://doi.org/10.1007/s10533-025-01257-0). I am extending this work to tropical forests, where tree fluxes are largest and least measured, with campaigns at the [Mamirauá](https://mamiraua.org.br/) floodplain forest in Brazil combining stem and canopy measurements with microbial sampling.
 
@@ -47,7 +59,7 @@ I also study methane and CO~2~ budgets at the ecosystem scale. At [Harvard Fores
 In agricultural systems, I measure greenhouse gas fluxes from soils, manure, and compost under conventional and regenerative management, with [Hudson Carbon](https://www.hudsoncarbon.com/) and [Churchtown Dairy](https://www.churchtowndairy.org/).
 
 ::: {.gallery}
-![](images/gallery/biogeochemistry_02.jpg){group="biogeochemistry" fig-alt="Climber measuring gas exchange in a tree canopy" loading="lazy"}
+![](images/gallery/biogeochemistry_01.jpg){group="biogeochemistry" fig-alt="Canoeing through a flooded forest at Mamirauá, Brazil" loading="lazy"}
 
 ![](images/gallery/biogeochemistry_03.jpg){group="biogeochemistry" fig-alt="Two researchers measuring methane flux from a tree stem" loading="lazy"}
 
@@ -58,16 +70,22 @@ In agricultural systems, I measure greenhouse gas fluxes from soils, manure, and
 ![](images/gallery/biogeochemistry_06.jpg){group="biogeochemistry" fig-alt="Boat among standing dead mangroves in the Everglades" loading="lazy"}
 
 ![](images/gallery/biogeochemistry_07.jpg){group="biogeochemistry" fig-alt="Ladder against a tree in a flooded forest at Mamirauá" loading="lazy"}
+
+![](images/gallery/teaching_06.jpg){group="biogeochemistry" fig-alt="Field team in life jackets on a boat" loading="lazy"}
 :::
 
 </details>
+</div>
 
-<details class="section" id="forest-ecosystem-ecology">
-<summary><img class="icon" src="images/icon_forest.svg" alt=""><h2 class="sec-title">Forest & Ecosystem Ecology</h2><span class="tagline">Decay and disease in trees, woody surface area, and how forests respond to disturbance.</span></summary>
+<div class="rsec" id="forest-ecosystem-ecology">
+<div class="sec-head"><img class="icon" src="images/icon_forest.svg" alt=""><h2 class="sec-title">Forest & Ecosystem Ecology</h2></div>
 
-![](images/forest.jpg){.research-photo group="forest" fig-alt="Field team walking through a boreal valley in Newfoundland"}
+![](images/forest.jpg){.research-photo group="forest" style="object-position: 50% 38%" fig-alt="Field team walking through a boreal valley in Newfoundland"}
 
-Much of my forest work concerns the condition of individual trees and how forests respond to disturbance and environmental change.
+Much of my forest work concerns the health of individual trees and how forests respond to disturbance: decay hidden inside living trees, novel pests and pathogens, extreme weather, and a changing climate.
+
+<details class="more">
+<summary><span class="m">Projects</span><span class="l">Hide projects</span></summary>
 
 Decay inside living trees is common but hard to see. Using sonic and electrical resistance tomography, I image [**internal decay**](https://doi.org/10.64898/2026.06.10.730433) without cutting trees down, to ask how widespread it is, where it concentrates, and what it means for carbon stocks and gas production. I also study [beech leaf disease](https://greatmountainforest.org/what-happens-to-the-american-beech/) in New England, including whether infected trees die by exhausting their carbohydrate reserves.
 
@@ -93,20 +111,26 @@ In Newfoundland, I collaborate on how moose browsing and canopy disturbance shap
 :::
 
 </details>
+</div>
 
-<details class="section" id="measurement-scaling">
-<summary><img class="icon" src="images/icon_measurement.svg" alt=""><h2 class="sec-title">Measurement & Scaling</h2><span class="tagline">Low-cost automated chambers, and scaling fluxes from stems to forests.</span></summary>
+<div class="rsec" id="measurement-scaling">
+<div class="sec-head"><img class="icon" src="images/icon_measurement.svg" alt=""><h2 class="sec-title">Measurement & Scaling</h2></div>
 
-![](images/measurement.jpg){.research-photo group="measurement" fig-alt="Fluxbot autonomous chamber on a cart in a meadow"}
+![](images/gallery/measurement_02.jpg){.research-photo group="measurement" style="object-position: 50% 80%" fig-alt="Fluxbot autonomous soil flux chamber on a mossy forest floor"}
 
-Most flux measurements come from a few expensive instruments at a few sites. I build cheaper, automated ones so that fluxes can be measured in more places, more often, and from surfaces that are usually skipped. With collaborators at UC Santa Barbara and Yale, I helped develop [**Fluxbots**](https://dl.acm.org/doi/10.1145/3674829.3675063), open-source autonomous chambers that run in arrays for [**continuous soil CO~2~ monitoring**](https://doi.org/10.31223/X5TB3F) across a landscape, and calibrated the [**low-cost sensor**](https://doi.org/10.3390/s24175675) they depend on. For methane and nitrous oxide, I extended the design into automated chambers that connect to precision analyzers and mount on stems, in canopies, and over water. These are running at Howland Forest. I also work on how small fluxes near detection limits should be processed and reported.
+Most greenhouse gas measurements rely on expensive instruments at a few fixed sites. I build cheaper, automated sensors so fluxes can be measured in more places and more often, and work on scaling those measurements from single stems to whole forests.
+
+<details class="more">
+<summary><span class="m">Projects</span><span class="l">Hide projects</span></summary>
+
+With collaborators at UC Santa Barbara and Yale, I helped develop [**Fluxbots**](https://dl.acm.org/doi/10.1145/3674829.3675063), open-source autonomous chambers that run in arrays for [**continuous soil CO~2~ monitoring**](https://doi.org/10.31223/X5TB3F) across a landscape, and calibrated the [**low-cost sensor**](https://doi.org/10.3390/s24175675) they depend on. For methane and nitrous oxide, I extended the design into automated chambers that connect to precision analyzers and mount on stems, in canopies, and over water. These are running at Howland Forest. I also work on how small fluxes near detection limits should be processed and reported.
 
 Scaling stem fluxes to a forest requires knowing how much surface there is and how fluxes change with height. I measure fluxes at height with professional climbers, use terrestrial laser scanning to quantify woody surface area, and compare chamber-based estimates with tower measurements through the [**Flux Gradient Project**](https://lternet.edu/working-groups/the-flux-gradient-project/) at [NEON](https://www.neonscience.org/) sites and a [**global synthesis**](https://www.creaf.cat/en/research/synthesis-actions/methane-fluxes-tree-stems) of tree stem methane data.
 
 ::: {.gallery}
 ![](images/gallery/measurement_01.jpg){group="measurement" fig-alt="Automated chambers and analyzer mounted on a tree stem" loading="lazy"}
 
-![](images/gallery/measurement_02.jpg){group="measurement" fig-alt="Soil flux chamber on a mossy forest floor" loading="lazy"}
+![](images/measurement.jpg){group="measurement" fig-alt="Soil flux chamber and analyzer on a cart in a meadow" loading="lazy"}
 
 ![](images/gallery/measurement_03.jpg){group="measurement" fig-alt="Flux tower rising above an autumn forest canopy" loading="lazy"}
 
@@ -114,16 +138,24 @@ Scaling stem fluxes to a forest requires knowing how much surface there is and h
 
 ![](images/gallery/measurement_05.jpg){group="measurement" fig-alt="Electronics inside a Fluxbot controller enclosure" loading="lazy"}
 
+![](images/gallery/teaching_05.jpg){group="measurement" fig-alt="Field team on a tower platform above the forest canopy" loading="lazy"}
+
 :::
 
 </details>
+</div>
 
-<details class="section" id="ecosystems-climate-solutions">
-<summary><img class="icon" src="images/icon_climate.svg" alt=""><h2 class="sec-title">Ecosystems & Climate Solutions</h2><span class="tagline">Greenhouse gas trade-offs in managed ecosystems, carbon credits, and natural methane uptake.</span></summary>
+<div class="rsec" id="ecosystems-climate-solutions">
+<div class="sec-head"><img class="icon" src="images/icon_climate.svg" alt=""><h2 class="sec-title">Ecosystems & Climate Solutions</h2></div>
 
 ![](images/climate.jpg){.research-photo group="climate" fig-alt="Standing dead mangroves in a hypersaline ghost forest"}
 
-Forests, wetlands, and farms are increasingly managed and credited for climate benefits, but the accounting is usually done in carbon alone. Methane and nitrous oxide can offset part of the carbon an ecosystem takes up, and restoration, water management, and land use can shift the balance either way. My work in the Everglades and on dairy farms measures these trade-offs directly. With the [Yale Applied Science Synthesis Program](https://synthesis.yale.edu/), I've examined [**what makes a high-quality forest carbon credit**](https://yff.yale.edu/sites/default/files/yffreview/yfffeb2024online_3.pdf).
+Forests, wetlands, and farms are increasingly managed and credited for climate benefits, but the accounting is usually done in carbon alone. I measure their full greenhouse gas balance, and study whether ecosystems could be managed to remove more methane.
+
+<details class="more">
+<summary><span class="m">Projects</span><span class="l">Hide projects</span></summary>
+
+Methane and nitrous oxide can offset part of the carbon an ecosystem takes up, and restoration, water management, and land use can shift the balance either way. My work in the Everglades and on dairy farms measures these trade-offs directly. With the [Yale Applied Science Synthesis Program](https://synthesis.yale.edu/), I've examined [**what makes a high-quality forest carbon credit**](https://yff.yale.edu/sites/default/files/yffreview/yfffeb2024online_3.pdf).
 
 Ecosystems also remove methane from the atmosphere, through upland soils and methane-oxidizing microbes on bark and wood. Whether that uptake can be protected or enhanced is an open question. Through [CarbonFix](https://carbonfix.org/)'s [**Boreal Biosequester**](https://carbonfix.org/projects/boreal-biosequester/) effort, I'm helping assess under what conditions boreal forests might be managed as stronger methane sinks.
 
@@ -138,11 +170,26 @@ Before graduate school, I worked on international climate finance and [**loss an
 :::
 
 </details>
+</div>
 
-```{=html}
 <script>
-function openFromHash(){var h=location.hash.slice(1);if(!h)return;var d=document.getElementById(h);if(d&&d.tagName==='DETAILS'){d.open=true;d.scrollIntoView();}}
-window.addEventListener('hashchange',openFromHash);
-document.addEventListener('DOMContentLoaded',function(){var b=document.getElementById('expand-all');if(!b)return;b.addEventListener('click',function(e){e.preventDefault();var ds=document.querySelectorAll('details.section');var open=Array.from(ds).some(function(d){return !d.open});ds.forEach(function(d){d.open=open});b.textContent=open?'Collapse all':'Expand all';});});window.addEventListener('DOMContentLoaded',openFromHash);
+(function () {
+  const btn = document.querySelector('.expand-all');
+  const all = Array.from(document.querySelectorAll('details.more'));
+  function sync() {
+    const open = all.every(d => d.open);
+    btn.textContent = open ? 'Collapse all' : 'Expand all';
+    btn.setAttribute('aria-expanded', open);
+  }
+  btn.addEventListener('click', () => {
+    const open = !all.every(d => d.open);
+    all.forEach(d => { d.open = open; });
+    sync();
+  });
+  all.forEach(d => d.addEventListener('toggle', sync));
+  const hdr = document.getElementById('quarto-header');
+  function setHdr() { if (hdr) document.body.style.setProperty('--hdr', (hdr.getBoundingClientRect().height - 1) + 'px'); }
+  setHdr();
+  window.addEventListener('resize', setHdr);
+})();
 </script>
-```
