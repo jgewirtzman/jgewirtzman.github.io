@@ -31,6 +31,7 @@ jobs:
           path: cv
 
       - name: Install TeX Live
+        timeout-minutes: 15  # apt mirrors occasionally stall; fail fast instead of hanging
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq --no-install-recommends \
