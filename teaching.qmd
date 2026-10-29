@@ -32,7 +32,7 @@ Students and collaborators interested in this work are welcome to get in touch.
 
 ## Science communication
 
-Our work on tree microbiomes was covered by [The New York Times](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html), [Science](https://www.science.org/content/article/more-1-trillion-microbes-live-inside-average-tree-trunk), and [Scientific American](https://www.scientificamerican.com/article/scientists-map-microbiome-hidden-deep-inside-tree-trunks/), and I discussed it on the [Nature Podcast](https://www.youtube.com/watch?v=gSD4SluHtRE&t=586s) and public radio's [Living on Earth](https://www.loe.org/shows/segments.html?programID=26-P13-00039&segmentID=4).
+Our work on tree microbiomes was covered by [The New York Times](https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html), [Science](https://www.science.org/content/article/more-1-trillion-microbes-live-inside-average-tree-trunk), and [Scientific American](https://www.scientificamerican.com/article/scientists-map-microbiome-hidden-deep-inside-tree-trunks/), and I discussed it on the [Nature Podcast](https://www.youtube.com/watch?v=gSD4SluHtRE&t=586s) and public radio's [Living on Earth](https://www.loe.org/shows/segments.html?programID=26-P13-00039&segmentID=4). [Science Journal for Kids](https://www.sciencejournalforkids.org/articles/what-microorganisms-live-inside-wood/) adapted the study for middle and high school classrooms.
 
 ```{=html}
 <figure class="audio">
