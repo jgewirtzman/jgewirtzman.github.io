@@ -48,6 +48,9 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Build publications list
+        run: python3 _scripts/publications.py  # must exist before quarto resolves includes
+
       - name: Render site
         run: quarto render
 
