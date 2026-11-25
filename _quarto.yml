@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  pre-render: python3 _scripts/publications.py
   resources:
     - CNAME
 
@@ -17,6 +18,8 @@ website:
         href: index.qmd
       - text: Research
         href: research.qmd
+      - text: Publications
+        href: publications.qmd
       - text: Teaching & Outreach
         href: teaching.qmd
       - text: Contact & CV

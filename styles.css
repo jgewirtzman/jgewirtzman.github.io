@@ -85,3 +85,8 @@ body:has(#quarto-header:not(.headroom--unpinned)) .jump { top: var(--hdr, 65px);
 .jump .expand-all { white-space: nowrap; }
 @media (max-width: 700px) { .jump { flex-wrap: nowrap; gap: 0.8rem; font-size: 0.88rem; } .jump-links { flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; scrollbar-width: none; min-width: 0; } .jump-links::-webkit-scrollbar { display: none; } .jump-links a + a::before { margin: 0 0.4rem; } .jump .expand-all { flex-shrink: 0; padding-left: 0.6rem; border-left: 1px solid #e4e9df; } }
 @media (prefers-reduced-motion: reduce) { .jump { transition: none; } }
+
+/* Publications page (generated list) */
+.pubs ul { list-style: none; padding-left: 0; }
+.pubs li { margin: 0 0 0.9em; padding-left: 1.2em; text-indent: -1.2em; line-height: 1.45; }
+.pubs h3 { font-size: 1.05rem; margin: 1.4em 0 0.6em; color: #6c757d; }
