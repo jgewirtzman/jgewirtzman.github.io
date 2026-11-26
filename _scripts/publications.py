@@ -21,7 +21,6 @@ CANDIDATES = [
 OUT = os.path.join(SITE, "_publications.md")
 SCHOLAR = "https://scholar.google.com/citations?hl=en&user=1uVeNjEAAAAJ"
 ME = "Gewirtzman"
-MAX_AUTHORS = 8
 
 # Preprint servers by DOI prefix.
 SERVERS = {
@@ -68,17 +67,8 @@ def name(a):
 
 
 def authors(lst):
-    names = [name(a) for a in lst]
-    etal = names and names[-1] == "et al."
-    if etal:
-        names = names[:-1]
-    if len(names) > MAX_AUTHORS:
-        mine = next((i for i, n in enumerate(names) if ME in n), None)
-        shown = names[:MAX_AUTHORS - 1]
-        if mine is not None and mine >= MAX_AUTHORS - 1:
-            shown += ["…", names[mine]]
-        names, etal = shown, True
-    return ", ".join(names) + (", et al." if etal else "")
+    """Full author list; "et al." only where the CV's bib itself ends in "and others"."""
+    return ", ".join(name(a) for a in lst)
 
 
 def server(doi):
